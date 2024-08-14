@@ -1,0 +1,3 @@
+openai
+pandasai==1.4.10
+streamlit
